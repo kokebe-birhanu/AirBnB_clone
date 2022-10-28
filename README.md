@@ -106,6 +106,5 @@ This allows the storage to be reloaded automatically at initialization, which re
 - [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 
 # AUTHOR
-- https://github.com/kokebe-birhanu
 - Kokebe Birhanu Stotaw | birhanukokebe@gmail.com | [GitHub](https://github.com/kokebe-birhanu)
 - Robel | @gmail.com | [GitHub](https://github.com/robel)
